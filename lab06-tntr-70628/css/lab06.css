@@ -1,0 +1,52 @@
+#one {
+    position: absolute;
+    top: 10%;
+    width: 20%;
+    height: 94%;
+    margin:2px;
+    padding: 5px;
+
+    background-color: aqua;;
+}
+
+#two {
+    position: absolute;
+    top: 10%;
+    left: 21%;
+    height: 94%;
+    margin:2px;
+    padding: 5px;
+
+    background-color: chartreuse;
+}
+
+#three {
+    position: absolute;
+    top: 73%;
+    left: 21%;
+    width: 30%;
+    margin:2px;
+    padding: 5px;
+
+    background-color:hotpink;
+}
+
+#four {
+    position: absolute;
+    top: 105.3%;
+    left: 21%;
+    width: 50%;
+
+    margin:2px;
+    padding: 5px;
+
+    background-color: darkkhaki;
+}
+
+td {
+    border-bottom: solid;
+}
+
+#whole {
+    background-color: coral;
+}
